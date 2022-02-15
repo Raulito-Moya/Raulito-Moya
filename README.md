@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hello this is my super Github repository I hope you enjoy it. 
+##Hello this is my super Github repository I hope you enjoy it. 
 
 <!---- 🔭 I’m currently working on ...
  🌱 I’m currently learning ...
