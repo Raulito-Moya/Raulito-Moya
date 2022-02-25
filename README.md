@@ -7,9 +7,9 @@
 
 
 - 👯I’m looking to collaborate with other people in this world of tech
-- 🌱This is a carrear not a race
+- 🌱This is a career not a race
 - 😁I want to collaborate with you and bring my best energy to you
--  🔭 You can check my projects here [Portafolio😎](https://raul-moyaweb.vercel.app/)
+-  🔭 You can check my projects here [Portfolio😎](https://raul-moyaweb.vercel.app/)
 
 
 # Connect with me
